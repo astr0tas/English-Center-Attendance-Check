@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T06:06:38.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dtfnxMYgWVEmcqIG5A5x" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T06:06:46.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9bFbpSz7OhK_jKb7Etno" version="21.1.1" type="github">
   <diagram name="Page-1" id="CRNQidJyGZVOagn2CQu6">
     <mxGraphModel dx="3208" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
           <mxGeometry x="90" y="385" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JiPtHDF4y1pOYtlBRICb-6" value="Thêm nhân sự/học viên" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="455" y="523" width="130" height="55" as="geometry" />
+          <mxGeometry x="540" y="540" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="JiPtHDF4y1pOYtlBRICb-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JiPtHDF4y1pOYtlBRICb-4" target="foU8qJLjKtTW0TO3vTlr-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,7 +173,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiPtHDF4y1pOYtlBRICb-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;fontStyle=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JiPtHDF4y1pOYtlBRICb-6" target="foU8qJLjKtTW0TO3vTlr-29" edge="1">
+        <mxCell id="JiPtHDF4y1pOYtlBRICb-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontStyle=1;" parent="1" source="JiPtHDF4y1pOYtlBRICb-6" target="foU8qJLjKtTW0TO3vTlr-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="432" y="475" as="sourcePoint" />
             <mxPoint x="560" y="455" as="targetPoint" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T16:34:39.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ONxaS9Mo1LV5RHcfFJU4" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-28T16:38:36.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RVYhBIoiQ33ku96jpbNm" version="21.1.1" type="github" pages="2">
   <diagram id="_IRvp9Y6UCIXvQJjtKuu" name="Main">
     <mxGraphModel dx="3185" dy="3606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,9 +410,6 @@
         </mxCell>
         <mxCell id="yOx9B2AxObz_JR-XIYCs-2" value="Need to check if the date is in the class&#39;s period time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-345" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yOx9B2AxObz_JR-XIYCs-3" value="Need to check if the student belongs to only one class that have the status &quot;in progress&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100.99000000000001" y="-310" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="fqYqqV2FEP6NsdqzG0RD-1" value="Teacher attendance" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-785" width="130" height="50" as="geometry" />

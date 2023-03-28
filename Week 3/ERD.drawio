@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T16:38:36.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RVYhBIoiQ33ku96jpbNm" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-28T16:40:24.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X7PeB8qo5USLRmZMjAin" version="21.1.1" type="github" pages="2">
   <diagram id="_IRvp9Y6UCIXvQJjtKuu" name="Main">
     <mxGraphModel dx="3185" dy="3606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -551,9 +551,6 @@
           <mxGeometry x="-0.1588" y="2" relative="1" as="geometry">
             <mxPoint x="411" y="-8" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="38l4PNe81qE2Vj1sAycu-2" value="Need to check&amp;nbsp; if the supervisor is really responsible for the session&#39;s class and if that supervisor is the same person in Teacher attendance relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-18.13" y="-725" width="128.13" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38l4PNe81qE2Vj1sAycu-3" value="Need to check&amp;nbsp; if the teacher and supervisor are really responsible for the session&#39;s class and if that supervisor is the same person in Note for class relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-890" width="100" height="45" as="geometry" />

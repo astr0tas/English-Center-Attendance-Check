@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T04:03:03.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oT1f2gx2AHnLO29rcg1p" version="21.0.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-14T04:05:56.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q07Cpuoru8RDt8fDpITQ" version="21.0.10" type="github" pages="3">
   <diagram id="_IRvp9Y6UCIXvQJjtKuu" name="Main">
     <mxGraphModel dx="3434" dy="3713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Main" id="VOQePEP4rb1BS9EbYT5j">
-    <mxGraphModel dx="2514" dy="3227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="2943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-0" />
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-1" parent="ZhwHeU2DW-AlFwMiwrjJ-0" />
@@ -1269,7 +1269,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCymDucayZrGFGS8X2yc-18" value="Teacher responsible" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="ZhwHeU2DW-AlFwMiwrjJ-1">
+        <mxCell id="UCymDucayZrGFGS8X2yc-18" value="Teach" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="ZhwHeU2DW-AlFwMiwrjJ-1">
           <mxGeometry x="173" y="-780" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UCymDucayZrGFGS8X2yc-19" value="N" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ZhwHeU2DW-AlFwMiwrjJ-1" source="UCymDucayZrGFGS8X2yc-18" target="ZhwHeU2DW-AlFwMiwrjJ-4">

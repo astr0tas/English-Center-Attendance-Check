@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T04:19:47.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="knY1mt0uyKjJBk8tz3ep" version="21.0.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-14T04:21:23.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2UTqg77oAl2_cmaoUvpa" version="21.0.10" type="github" pages="3">
   <diagram id="_IRvp9Y6UCIXvQJjtKuu" name="Main">
     <mxGraphModel dx="3434" dy="3713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Main" id="VOQePEP4rb1BS9EbYT5j">
-    <mxGraphModel dx="2261" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-0" />
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-1" parent="ZhwHeU2DW-AlFwMiwrjJ-0" />
@@ -1027,8 +1027,8 @@
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-90" value="Need to check if the student belongs to the session&#39;s class in this table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
           <mxGeometry x="507.63" y="-460" width="122.61" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-91" value="Need to check if the date is in the class&#39;s period time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
-          <mxGeometry x="-197.5" y="-360" width="120" height="40" as="geometry" />
+        <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-91" value="Need to check if `Date` is in the class&#39;s period time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
+          <mxGeometry x="-326.25" y="-130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-100" value="Status" style="ellipse;whiteSpace=wrap;html=1;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
           <mxGeometry x="645.49" y="-435" width="85" height="50" as="geometry" />

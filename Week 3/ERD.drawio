@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T04:00:39.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wq5EaaHVL2ojRfnA-0zf" version="21.0.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-14T04:01:48.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M1wXbeKKzgqeeUY9tkZ3" version="21.0.10" type="github" pages="3">
   <diagram id="_IRvp9Y6UCIXvQJjtKuu" name="Main">
     <mxGraphModel dx="3434" dy="3713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Main" id="VOQePEP4rb1BS9EbYT5j">
-    <mxGraphModel dx="1225" dy="2548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="3227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-0" />
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-1" parent="ZhwHeU2DW-AlFwMiwrjJ-0" />
@@ -876,7 +876,7 @@
           <mxGeometry x="-530" y="-605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-53" value="&lt;u&gt;Number&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
-          <mxGeometry x="-495" y="-680" width="85" height="50" as="geometry" />
+          <mxGeometry x="-527.5" y="-690" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-54" value="" style="endArrow=none;html=1;rounded=0;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" source="ZhwHeU2DW-AlFwMiwrjJ-53" target="ZhwHeU2DW-AlFwMiwrjJ-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1032,15 +1032,6 @@
         </mxCell>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-100" value="Status" style="ellipse;whiteSpace=wrap;html=1;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
           <mxGeometry x="645.49" y="-435" width="85" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-107" value="Max of seat" style="ellipse;whiteSpace=wrap;html=1;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
-          <mxGeometry x="-600" y="-670" width="85" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-108" value="" style="endArrow=none;html=1;rounded=0;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" source="ZhwHeU2DW-AlFwMiwrjJ-107" target="ZhwHeU2DW-AlFwMiwrjJ-52" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-434" y="-660" as="sourcePoint" />
-            <mxPoint x="-452" y="-595" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZhwHeU2DW-AlFwMiwrjJ-111" value="Maximum number of students" style="ellipse;whiteSpace=wrap;html=1;" parent="ZhwHeU2DW-AlFwMiwrjJ-1" vertex="1">
           <mxGeometry x="407.25" y="-455" width="85" height="50" as="geometry" />
@@ -1259,7 +1250,7 @@
         </mxCell>
         <mxCell id="UCymDucayZrGFGS8X2yc-16" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="UCymDucayZrGFGS8X2yc-15">
           <mxGeometry x="-0.5819" y="1" relative="1" as="geometry">
-            <mxPoint x="-13" y="-8" as="offset" />
+            <mxPoint x="-26" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

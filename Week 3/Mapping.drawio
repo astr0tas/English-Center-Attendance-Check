@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T15:09:11.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Rgg-6RbI3TfrulKQwRmy" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T15:14:20.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="12-GM_tNl7CnyjW6l056" version="21.1.7" type="github">
   <diagram name="Trang-1" id="4RpuYi7avetaEBU4RcvP">
     <mxGraphModel dx="2358" dy="2437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -664,9 +664,6 @@
         </mxCell>
         <mxCell id="33r6gbF3mUUKnf8esajG-15" value="CLassroom_number_in not null" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1241" y="510" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="33r6gbF3mUUKnf8esajG-16" value="Date not null" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33r6gbF3mUUKnf8esajG-18" value="Check total participation of Session.Session_number and Session.Class_name in STUDENT_ATTENDANCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="663" y="865" width="270" height="30" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T14:50:58.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nRYwCF9R_zSeWD2qA7TN" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T14:57:46.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eg83x8wncq8u3pMkdiMn" version="21.1.7" type="github">
   <diagram name="Trang-1" id="4RpuYi7avetaEBU4RcvP">
     <mxGraphModel dx="1626" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,20 +207,11 @@
         <mxCell id="ESTctOifAB1JOvWOm2H_-74" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="628" y="450" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ESTctOifAB1JOvWOm2H_-74" vertex="1">
+        <mxCell id="ESTctOifAB1JOvWOm2H_-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Session_number_make_up_for&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ESTctOifAB1JOvWOm2H_-74" vertex="1">
           <mxGeometry x="-20.99523809523808" y="10" width="247.6190476190476" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-78" value="" style="group" parent="ESTctOifAB1JOvWOm2H_-74" connectable="0" vertex="1">
-          <mxGeometry x="-29.99523809523805" y="5" width="247.6190476190476" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-65" value="Session_number_make_up_for" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ESTctOifAB1JOvWOm2H_-78" vertex="1">
-          <mxGeometry x="95.71523809523808" y="10" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ESTctOifAB1JOvWOm2H_-75" value="Timetable_ID_in" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1098" y="460" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-76" value="Timetable_ID_in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1118" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ESTctOifAB1JOvWOm2H_-64" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="838" y="450" width="260" height="50" as="geometry" />
@@ -234,11 +225,8 @@
         <mxCell id="ESTctOifAB1JOvWOm2H_-73" value="Class_name_make_up_for" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ESTctOifAB1JOvWOm2H_-64" vertex="1">
           <mxGeometry x="92.85714285714285" y="15" width="74.28571428571428" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ESTctOifAB1JOvWOm2H_-81" value="CLassroom_number_in" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1218" y="460" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ESTctOifAB1JOvWOm2H_-82" value="CLassroom_number_in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1258" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ESTctOifAB1JOvWOm2H_-83" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="240" y="625" width="430" height="40" as="geometry" />
@@ -691,6 +679,9 @@
         </mxCell>
         <mxCell id="33r6gbF3mUUKnf8esajG-16" value="Date not null" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33r6gbF3mUUKnf8esajG-18" value="Check total participation of Session.Session_number and Session.Class_name in STUDENT_ATTENDANCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="663" y="865" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
